@@ -42,6 +42,9 @@ The new Teams client delivers up to two times faster app performance while usi
 
 <sup>1</sup> All versions of Windows LTSC are not supported by the Teams desktop client.
 
+> **Suggested Step:** [Prevent Antivirus and DLP Tools from Blocking or Crashing Microsoft Teams](https://learn.microsoft.com/en-us/microsoftteams/troubleshoot/teams-administration/include-exclude-teams-from-antivirus-dlp?source=docs)
+
+
 ## New Teams for macOS Desktop
 
 |Component              |Requirement                                                                        |
